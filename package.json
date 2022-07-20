@@ -1,0 +1,38 @@
+{
+  "type": "module",
+  "name": "desafio4-rodolfo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.18.6",
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "@types/express": "^4.17.13",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "knex": "^2.2.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.5.1",
+    "sqlite3": "^5.0.9",
+    "typescript": "^4.7.4",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolfogonzalezled/backend-pre-entrega-rodolfo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rodolfogonzalezled/backend-pre-entrega-rodolfo/issues"
+  },
+  "homepage": "https://github.com/rodolfogonzalezled/backend-pre-entrega-rodolfo#readme",
+  "description": "- Se implemento un servidor basado en plataforma Node.js y modulo express. Donde se presenta un canal de websocket que permite representar por debajo del formulario de ingreso de productos, una lista de productos agregados en tiempo real. Al agregar un producto permite crear un archivo de persistencia al igual que al crear un carrito enviando un producto al mismo."
+}

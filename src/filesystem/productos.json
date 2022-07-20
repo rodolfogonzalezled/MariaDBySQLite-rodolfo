@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "timestamp": "20/11/1989",
+    "nombre": "NBA 2k22",
+    "descripcion": "juego de baloncesto",
+    "codigo": "0022",
+    "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202106/3002/Eaq9uyUlyLZK8L5xTlsPl0rM.png",
+    "precio": "5000",
+    "stock": "50"
+  }
+]
